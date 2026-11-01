@@ -30,7 +30,8 @@ Install and configure IntelliJ IDEA Ultimate as the Integrated Development Envir
 
 ### Installation Screenshot
 
-![IntelliJ IDEA Ultimate Installation](Task_1_IntelliJ/intellij_ultimate.png)
+![IntelliJ IDEA Ultimate Installation](Task_1_IntelliJ/Install IntelliJ IDEA Ultimate/Screenshot 2026-11-01 105844.png)
+
 
 ### Result
 
